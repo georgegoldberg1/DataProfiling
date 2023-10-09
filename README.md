@@ -37,6 +37,15 @@ This uses:
 - numpy's histogram function to create frequency bins
 - pandas's value_counts() function to get the proportions.
 
+# Sample Data
+
+If you're interested, I created a bespoke web scraper to pull data from BoxOfficeMojo. 
+
+- Data Source: [BoxOfficeMojo.com](https://www.boxofficemojo.com/)
+- Web Scraper: [georgegoldberg1/scraper_boxoffice_sales](https://github.com/georgegoldberg1/scraper_boxoffice_sales)
+
+You can use it to get US movie sales going back decades (at the time of writing robots.txt file on the site looks ok).
+
 # Authors
 
 George Goldberg (2023)
